@@ -53,6 +53,35 @@ JUnit 5 • Mockito • Spring Boot Test • MockMvc
 REST APIs • Clean Architecture • DDD • Repository Pattern • Testes Automatizados
 
 ---
+## 📜 Certificados
+
+### ☕ Java
+
+- [Fundamentos Para Começar a Programar em Java](LINK)
+- [Java e a Arte da Abstração com Classes e Encapsulamento](LINK)
+- [Programando o Mundo Real com Orientação a Objetos no Java](LINK)
+- [Herança e Polimorfismo em Java](LINK)
+- [Imersão Prática com Collections e Outras Classes Úteis do Java](LINK)
+- [Dominando Interfaces e Lambda em Java](LINK)
+- [Boas Práticas, Padrões e Dados no Java](LINK)
+- [SOLID e Clean Code em Java](LINK)
+- [Design Patterns com Java](LINK)
+
+### 🌱 Spring Boot e Backend
+
+- [Criando sua Primeira API REST com Spring Boot](LINK)
+- [Potencializando Sua Produtividade com Spring Boot](LINK)
+- [Conectando sua API com Banco de Dados Através do Spring Data](LINK)
+- [Consumindo APIs Externas com Spring Cloud OpenFeign](LINK)
+- [Simplificando a Segurança em APIs REST com Spring Security](LINK)
+
+### 🤖 Inteligência Artificial
+
+- [Assistente Virtual Inteligente por Voz](LINK)
+- [Desenvolvendo API com Reconhecimento de Fala e Spring Boot](LINK)
+- [Introdução à Engenharia de Prompts](LINK)
+- [Fundamentos da IA Moderna](LINK)
+- [Copilotos com IA no Desenvolvimento de Soluções](LINK)
 
 # ⭐ Projetos em destaque
 
