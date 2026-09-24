@@ -83,6 +83,8 @@ REST APIs • Clean Architecture • DDD • Repository Pattern • Testes Autom
 - [Fundamentos da IA Moderna](LINK)
 - [Copilotos com IA no Desenvolvimento de Soluções](LINK)
 
+  https://github.com/TaisMoura/certificados.git
+
 # ⭐ Projetos em destaque
 
 ## 💰 Budgeting Spring AI
